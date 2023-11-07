@@ -1,4 +1,6 @@
-﻿// UML_HW_06_Svyrydov.
+﻿// Develop a user registration request processing system using the Chain of Responsibility pattern. 
+// The system should include multiple levels of checks and handlers that determine whether a registration request can be accepted 
+// and, if necessary, pass the request to the next handler in the chain.
 //
 
 #include <iostream>

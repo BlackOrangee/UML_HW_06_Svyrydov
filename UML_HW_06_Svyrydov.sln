@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UML_HW_06_Svyrydov", "UML_HW_06_Svyrydov.vcxproj", "{8D984547-F653-440F-9741-63CA1DA19B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D984547-F653-440F-9741-63CA1DA19B6B}.Debug|x64.ActiveCfg = Debug|x64
+		{8D984547-F653-440F-9741-63CA1DA19B6B}.Debug|x64.Build.0 = Debug|x64
+		{8D984547-F653-440F-9741-63CA1DA19B6B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D984547-F653-440F-9741-63CA1DA19B6B}.Debug|x86.Build.0 = Debug|Win32
+		{8D984547-F653-440F-9741-63CA1DA19B6B}.Release|x64.ActiveCfg = Release|x64
+		{8D984547-F653-440F-9741-63CA1DA19B6B}.Release|x64.Build.0 = Release|x64
+		{8D984547-F653-440F-9741-63CA1DA19B6B}.Release|x86.ActiveCfg = Release|Win32
+		{8D984547-F653-440F-9741-63CA1DA19B6B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D53DC4-2AD2-471E-8F13-351B6E7C50E1}
+	EndGlobalSection
+EndGlobal
